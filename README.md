@@ -1,1 +1,2 @@
 # Projekt_python_s4
+Program pozwala na zarządzanie zbiorem banków, kont bankowych oraz kont oszczędnościowych. Symuluje on w uproszczeniu działanie wymienionych wyżej usług bankowych umożliwiając użytkownikowi tworzenie, usuwanie, edytowanie i przeglądanie własnych kont, na których może wykonywać takie działania jak: wpłaty, wypłaty, transfery i naliczanie odsetek (na kontach oszczędnościowych). Ponadto program umożliwia wyszukiwanie obiektów oraz zapis danych zarówno do pliku, jak i odczytanie ich z pliku.
